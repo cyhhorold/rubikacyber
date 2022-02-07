@@ -29,7 +29,7 @@ pkg install python
 
 ## Installation orginal
 
-### Kali Linux /  Ubuntu /  Termux
+### / Termux
 
 ```bash
 git clone https://github.com/cyhhorold/rubikacyber
