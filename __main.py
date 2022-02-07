@@ -58,7 +58,7 @@ print(Fore.LIGHTGREEN_EX+'[+] Found Code : '+str(kc))
 
 print('')
 
-se = input(Fore.YELLOW+'exit the script ? (Y) ').casefold()
+se = input(Fore.YELLOW+'exit the script ? (Y/N) ').casefold()
 
 if se == 'y':
     exit()
