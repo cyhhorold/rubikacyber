@@ -306,7 +306,7 @@ try:
 
     Team Builder : Eagle-Root
 
-    Relationship : -https://zil.ink/drcayber- ''')
+    Relationship : -https://instagram.com/drcayber- ''')
 
     sleep(2)
 
