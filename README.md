@@ -48,21 +48,25 @@ Available Templates :
 
 ## Tested On :
 
-* Kali Linux
-* BlackArch Linux
-* Ubuntu
-* Kali Nethunter
 * Termux
-* Parrot OS
-* OSX - Monterey v.12.0.1
 
-## Installation
 
-### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
+### Prerequisites for installation on Termux
 
 ```bash
-git clone https://github.com/cyhhorold/actionlock
-cd actionlock/
-chmod +x install.sh
-./install.sh
+apt update
+apt upgrade
+pkg install git
+pkg install python
+```
+
+## Installation orginal
+
+### Kali Linux /  Ubuntu /  Termux
+
+```bash
+git clone https://github.com/cyhhorold/rubikacyber
+cd rubikacyber
+python3 run.py
+python3 rubikacyber.py
 ```
